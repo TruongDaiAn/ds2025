@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Truong Dai An
 * Student ID: 22BI13008
-* Student Group ID: Not-for-now
+* Student Group ID: 4
